@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# portfolio
-Portfolio
-=======
 
-<a href="https://kamleshsharma.netlify.app" >project link</a>
+<a href="https://sapnasarkar.netlify.app" >project link</a>
 
 This project was built using these technologies.
 
@@ -39,4 +35,3 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
->>>>>>> cb131fc (Initial commit)
