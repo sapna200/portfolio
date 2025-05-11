@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { BsCameraFill } from "react-icons/bs";
 import { FaTree } from "react-icons/fa";
 
 function AboutCard() {
