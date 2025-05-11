@@ -8,7 +8,6 @@ import { CgGitFork } from "react-icons/cg";
 
 import {
   AiFillStar,
-  AiOutlineStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
